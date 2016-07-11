@@ -118,3 +118,25 @@
   color:#000000;
   text-align:center;
 }
+#u6 {
+  position:absolute;
+  left:604px;
+  top:3px;
+  width:186px;
+  height:69px;
+}
+#u6_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:186px;
+  height:69px;
+}
+#u7 {
+  position:absolute;
+  left:2px;
+  top:26px;
+  width:182px;
+  visibility:hidden;
+  word-wrap:break-word;
+}

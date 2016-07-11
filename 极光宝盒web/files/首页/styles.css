@@ -140,3 +140,25 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u8 {
+  position:absolute;
+  left:604px;
+  top:3px;
+  width:186px;
+  height:69px;
+}
+#u8_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:186px;
+  height:69px;
+}
+#u9 {
+  position:absolute;
+  left:2px;
+  top:26px;
+  width:182px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
