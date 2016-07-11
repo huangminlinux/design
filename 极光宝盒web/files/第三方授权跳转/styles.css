@@ -1,0 +1,57 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:530px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u0 {
+  position:absolute;
+  left:100px;
+  top:230px;
+  width:430px;
+  height:34px;
+}
+#u0_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:430px;
+  height:34px;
+}
+#u1 {
+  position:absolute;
+  left:2px;
+  top:9px;
+  width:426px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u2 {
+  position:absolute;
+  left:200px;
+  top:340px;
+  width:230px;
+  height:80px;
+}
+#u2_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:230px;
+  height:80px;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:30px;
+  text-decoration:none;
+  color:#000000;
+  text-align:center;
+}
